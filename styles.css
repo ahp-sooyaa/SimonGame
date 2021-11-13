@@ -6,7 +6,7 @@ body {
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
-  margin:  5%;
+  margin: 5%;
   color: #FEF2BF;
 }
 
@@ -22,7 +22,7 @@ body {
   display: inline-block;
   height: 200px;
   width: 200px;
-  border: 10px solid black;
+  border: 5px solid black;
   border-radius: 20%;
 }
 
@@ -32,19 +32,19 @@ body {
 }
 
 .red {
-  background-color: red;
+  background-color: #ef4444;
 }
 
 .green {
-  background-color: green;
+  background-color: #13b981;
 }
 
 .blue {
-  background-color: blue;
+  background-color: #6467f1;
 }
 
 .yellow {
-  background-color: yellow;
+  background-color: #f59e0b;
 }
 
 .pressed {
